@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "notes": "NexPOS Warehouse 1.0.2",
+  "pub_date": "2026-09-01T22:57:52Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZzVOaWhQTkdpZVQ1NGg3elc5VWEyWHI2eHFKZ0VBMHp5V0k3YkdoU1pzOHdkcVlSNW9GTmdJdU9ILzhXTTNlNHFieXVwVnZPQ0xmSWMxdFRuT21HN1VibUJQUEV5cWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzAzNDY0CWZpbGU6TmV4UE9TIFdhcmVob3VzZV8xLjAuMl94NjQtc2V0dXAuZXhlCmxSb2hndGZseDFWQWl2Mlh4OWNsOXZkN3VpZEFMUVlZYUJ2ajlFcHljcERFYXFUUTlRcE1mc1FnL3Uvdi9PemJVbGFQNFgyaGx4TWtqd0VkLzNFMURRPT0K",
+      "url": "https://github.com/Krenar123/nexpos-releases/releases/download/warehouse-v1.0.2/NexPOS.Warehouse_1.0.2_x64-setup.exe"
+    }
+  }
+}
