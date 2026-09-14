@@ -1,11 +1,11 @@
 {
-  "version": "1.0.21",
-  "notes": "NexPOS Cashier 1.0.21",
-  "pub_date": "2026-09-14T20:55:33Z",
+  "version": "1.0.22",
+  "notes": "NexPOS Cashier 1.0.22",
+  "pub_date": "2026-09-14T21:24:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZzVOaWhQTkdpZVZVQk40KzFvRVpwRWxXZ2V0OUg1S2VoSjNIU1hrUGhUVmtCNHpzdzVvLyt6M1R1RzhmZ1MwaDRtK1hZQ1BRVGRlRU1YZVNmQzZ4anVCMkdaRHBZVkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDE5MzIzCWZpbGU6TmV4UE9TIENhc2hpZXJfMS4wLjIxX3g2NC1zZXR1cC5leGUKWkhQU1N4dFBRS1FUMjd6R2tqYTBMSS9IUTBLNktaWTZpalFSS3pYbnFCRjlKQTZ1TFFMVmVkTUl6T2J5VTVNV29Bb1RwOFFJVnAxMzdhK2psTzdoQWc9PQo=",
-      "url": "https://github.com/Krenar123/nexpos-releases/releases/download/cashier-v1.0.21/NexPOS.Cashier_1.0.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZzVOaWhQTkdpZVpFVzUvZ1lrY3FtN1RSTFFVT0RhWjhHNVk0aFhKNHJueGJZMVhxVEhTU2Z3Sm9TRlhOQ0dNS2hJRnpRNW9rMlZ6eHVraCtQc0lUVEliSURqTG9MZHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIxMDgzCWZpbGU6TmV4UE9TIENhc2hpZXJfMS4wLjIyX3g2NC1zZXR1cC5leGUKdjBQUTVBSkEvSTY1Szh1UExPdElLblI2RU9Bb3hzNGJseExMdW1Ncit1UWdMbkxpbHFyU2laRjNBcUhudDU1cXd5b1l3a3U5NkdPa0t3UUhiZ01yQmc9PQo=",
+      "url": "https://github.com/Krenar123/nexpos-releases/releases/download/cashier-v1.0.22/NexPOS.Cashier_1.0.22_x64-setup.exe"
     }
   }
 }
