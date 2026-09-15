@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "NexPOS Warehouse 1.0.4",
-  "pub_date": "2026-09-14T21:01:04Z",
+  "version": "1.0.5",
+  "notes": "NexPOS Warehouse 1.0.5",
+  "pub_date": "2026-09-15T12:59:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZzVOaWhQTkdpZVVRSGlPVnRWQXZUK2lzWXdVT1Buc1g5Y3hLQ0Ruam8vMm42dHphNWZIM3JjaWVqdVlGQmtvRSt1YVJWcU9BWFZITzFHQXBrOTBtclhtRk1seUdTd0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDE5NjU0CWZpbGU6TmV4UE9TIFdhcmVob3VzZV8xLjAuNF94NjQtc2V0dXAuZXhlCldiTUNLSWNUMzFsWW50MmZudXg0WG44UXBHR3I5aHBlN0NpckcrMUx6Z0V0d1RDYXFleWplOU41azIzVFdmMDlRY3ZZS2s1b1U2ZzJLWGZvRUJ1ekRnPT0K",
-      "url": "https://github.com/Krenar123/nexpos-releases/releases/download/warehouse-v1.0.4/NexPOS.Warehouse_1.0.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZzVOaWhQTkdpZVhwcStyZjdrdXovY29nSTNxY1RnQm8wVUVMakJRRU5qYmRjWm9BeVhKSU96a1JHWC84WVM0VnR1TUtRMmM0NUlhOVlISFBPUExoVENhcklWRXE3RGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDc3MTQ1CWZpbGU6TmV4UE9TIFdhcmVob3VzZV8xLjAuNV94NjQtc2V0dXAuZXhlCjA1YW5hY2F1Wko1bXppUDJjL1BSSHhaZTN5RWpDNFJUaXBwSUpFQUs3djd2YThBLy9zRXhnY21iM1ZDZitvRUdUOXdCUFZRakpSUmJNUko1L2tGZ0F3PT0K",
+      "url": "https://github.com/Krenar123/nexpos-releases/releases/download/warehouse-v1.0.5/NexPOS.Warehouse_1.0.5_x64-setup.exe"
     }
   }
 }
